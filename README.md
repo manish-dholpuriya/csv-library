@@ -1,2 +1,2 @@
 # csv-library
-CSV Operations - Craete, Read, Update, Delete
+CSV Operations - Create, Read, Update, Delete
