@@ -1,0 +1,19 @@
+{
+    "name": "csv/library",
+    "description": "CSV Operations - Create, Read, Update, Delete",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Csv\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Dholpuriya",
+            "email": "manish.dholpuriya@ongraph.com"
+        }
+    ],
+    "require": {}
+}
